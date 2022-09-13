@@ -4,7 +4,7 @@ Console.WriteLine("Введите 8 чисел через пробел");
 string abcdefgh = Console.ReadLine()!;
 string[] parts = abcdefgh.Split(' ');
 
-int [] CreateArray (int size) // функция созания массива
+int [] CreateArray (int size) // функция создания массива
 {    
     int[] array = new int[size];  // объявляем массив
     for (int i = 0; i < size; i++)  // сделать 8 раз  (для i от 0 до 7)
