@@ -1,0 +1,15 @@
+E:\CSharp_Seminar_4_Homework\hw_29\obj\Debug\net6.0\hw_29.csproj.AssemblyReference.cache
+E:\CSharp_Seminar_4_Homework\hw_29\obj\Debug\net6.0\hw_29.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp_Seminar_4_Homework\hw_29\obj\Debug\net6.0\hw_29.AssemblyInfoInputs.cache
+E:\CSharp_Seminar_4_Homework\hw_29\obj\Debug\net6.0\hw_29.AssemblyInfo.cs
+E:\CSharp_Seminar_4_Homework\hw_29\obj\Debug\net6.0\hw_29.csproj.CoreCompileInputs.cache
+E:\CSharp_Seminar_4_Homework\hw_29\bin\Debug\net6.0\hw_29.exe
+E:\CSharp_Seminar_4_Homework\hw_29\bin\Debug\net6.0\hw_29.deps.json
+E:\CSharp_Seminar_4_Homework\hw_29\bin\Debug\net6.0\hw_29.runtimeconfig.json
+E:\CSharp_Seminar_4_Homework\hw_29\bin\Debug\net6.0\hw_29.dll
+E:\CSharp_Seminar_4_Homework\hw_29\bin\Debug\net6.0\hw_29.pdb
+E:\CSharp_Seminar_4_Homework\hw_29\obj\Debug\net6.0\hw_29.dll
+E:\CSharp_Seminar_4_Homework\hw_29\obj\Debug\net6.0\refint\hw_29.dll
+E:\CSharp_Seminar_4_Homework\hw_29\obj\Debug\net6.0\hw_29.pdb
+E:\CSharp_Seminar_4_Homework\hw_29\obj\Debug\net6.0\hw_29.genruntimeconfig.cache
+E:\CSharp_Seminar_4_Homework\hw_29\obj\Debug\net6.0\ref\hw_29.dll

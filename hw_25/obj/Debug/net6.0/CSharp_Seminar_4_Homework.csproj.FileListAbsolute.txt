@@ -1,0 +1,15 @@
+E:\CSharp_Seminar_4_Homework\hw_25\obj\Debug\net6.0\CSharp_Seminar_4_Homework.csproj.AssemblyReference.cache
+E:\CSharp_Seminar_4_Homework\hw_25\obj\Debug\net6.0\CSharp_Seminar_4_Homework.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp_Seminar_4_Homework\hw_25\obj\Debug\net6.0\CSharp_Seminar_4_Homework.AssemblyInfoInputs.cache
+E:\CSharp_Seminar_4_Homework\hw_25\obj\Debug\net6.0\CSharp_Seminar_4_Homework.AssemblyInfo.cs
+E:\CSharp_Seminar_4_Homework\hw_25\obj\Debug\net6.0\CSharp_Seminar_4_Homework.csproj.CoreCompileInputs.cache
+E:\CSharp_Seminar_4_Homework\hw_25\bin\Debug\net6.0\CSharp_Seminar_4_Homework.exe
+E:\CSharp_Seminar_4_Homework\hw_25\bin\Debug\net6.0\CSharp_Seminar_4_Homework.deps.json
+E:\CSharp_Seminar_4_Homework\hw_25\bin\Debug\net6.0\CSharp_Seminar_4_Homework.runtimeconfig.json
+E:\CSharp_Seminar_4_Homework\hw_25\bin\Debug\net6.0\CSharp_Seminar_4_Homework.dll
+E:\CSharp_Seminar_4_Homework\hw_25\bin\Debug\net6.0\CSharp_Seminar_4_Homework.pdb
+E:\CSharp_Seminar_4_Homework\hw_25\obj\Debug\net6.0\CSharp_Seminar_4_Homework.dll
+E:\CSharp_Seminar_4_Homework\hw_25\obj\Debug\net6.0\refint\CSharp_Seminar_4_Homework.dll
+E:\CSharp_Seminar_4_Homework\hw_25\obj\Debug\net6.0\CSharp_Seminar_4_Homework.pdb
+E:\CSharp_Seminar_4_Homework\hw_25\obj\Debug\net6.0\CSharp_Seminar_4_Homework.genruntimeconfig.cache
+E:\CSharp_Seminar_4_Homework\hw_25\obj\Debug\net6.0\ref\CSharp_Seminar_4_Homework.dll
